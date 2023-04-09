@@ -2,7 +2,7 @@
 
 ## 下载
 
-- [x] [edk2下载地址](ed2k://|file|SW_DVD9_WIN_ENT_LTSC_2021_64BIT_ChnSimp_MLF_X22-84402.ISO|5044211712|1555B7DCA052B5958EE68DB58A42408D|/)
+- [x] `edk2`下载地址： `ed2k://|file|SW_DVD9_WIN_ENT_LTSC_2021_64BIT_ChnSimp_MLF_X22-84402.ISO|5044211712|1555B7DCA052B5958EE68DB58A42408D|/`
 - [x] [MSDN I tell you](https://next.itellyou.cn/)
 
 ## 安装和激活系统  
@@ -17,7 +17,7 @@
     slmgr -dlv
     ``` 
 
-3. 若密钥提示无效，请在[py-kms](https://py-kms.readthedocs.io/en/latest/Keys.html)查找对应版本
+3. 若密钥提示无效，请在[py-kms](https://py-kms.readthedocs.io/en/latest/Keys.html)查找对应版本的可用密钥
 
 ## 安装`Microsoft Store`
 1. 打开网站 [store.rg-adguard.net](https://store.rg-adguard.net/) 
